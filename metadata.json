@@ -1,0 +1,6 @@
+{
+  "name": "MS2 Music Player — Original Android Music App",
+  "description": "Premium black and gold neon music player web app for Android with Assamese, Hindi, Bengali, Nepali and English music, local offline library, audio visualizer, equalizers, and PWA install.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
